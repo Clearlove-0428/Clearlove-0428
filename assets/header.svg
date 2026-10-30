@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Clearlove-0428 · 网络安全学习与本地工具开发</title>
+  <desc id="desc">深蓝背景、青色节点与文件图形，展示网络安全学习和本地工具开发方向。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1729"/><stop offset="1" stop-color="#112b42"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#53e0cf"/><stop offset="1" stop-color="#7bb9ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b5d7ff" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="22" fill="url(#grid)"/>
+  <path d="M0 330H1280" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Segoe UI, Microsoft YaHei, Noto Sans SC, sans-serif">
+    <text x="60" y="57" fill="#a8c0d8" font-size="20" letter-spacing="4">CLEARLOVE-0428</text>
+    <text x="56" y="151" fill="#f2f8ff" font-size="64" font-weight="700">网络安全学习</text>
+    <text x="60" y="211" fill="#9de7df" font-size="34" font-weight="500">把问题做成可复现的工具</text>
+    <g font-size="18" fill="#d5e4f4">
+      <rect x="60" y="253" width="181" height="38" rx="19" fill="#15374a" stroke="#2a5b6b"/>
+      <text x="83" y="278">CTF · Linux 基础</text>
+      <rect x="255" y="253" width="158" height="38" rx="19" fill="#153247" stroke="#2a506e"/>
+      <text x="278" y="278">本地工具开发</text>
+      <rect x="427" y="253" width="158" height="38" rx="19" fill="#153247" stroke="#2a506e"/>
+      <text x="450" y="278">测试与复现</text>
+    </g>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M776 76L910 118L1115 65M910 118L1057 220L1192 165M910 118L810 253L1057 220L1142 287" stroke="#4c90ad" stroke-width="2" opacity=".55"/>
+    <path d="M776 76L810 253M1115 65L1192 165L1142 287" stroke="#2e657f" stroke-width="2" stroke-dasharray="5 10" opacity=".65"/>
+    <rect x="866" y="80" width="132" height="164" rx="13" fill="#132b40" stroke="#66b9c2" stroke-width="2"/>
+    <path d="M892 118H967M892 139H948M892 196H965M892 217H931" stroke="#759cb8" stroke-width="5"/>
+    <path d="M897 168L911 181L944 154" stroke="#63dfcb" stroke-width="6"/>
+  </g>
+  <g fill="#65e0d0" stroke="#183f50" stroke-width="7">
+    <circle cx="776" cy="76" r="8"/><circle cx="810" cy="253" r="8"/><circle cx="1115" cy="65" r="8"/><circle cx="1192" cy="165" r="8"/><circle cx="1057" cy="220" r="8"/><circle cx="1142" cy="287" r="8"/>
+  </g>
+  <g fill="#88a8c3" font-family="Consolas, monospace" font-size="15" opacity=".8"><text x="1044" y="109">read · inspect</text><text x="1030" y="142">test · reproduce</text></g>
+</svg>
